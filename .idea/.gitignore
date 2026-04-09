@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignorar pastas de compilação
+out/
+target/
+bin/
+
+# Ignorar arquivos da IDE (IntelliJ/Eclipse/VS Code)
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
