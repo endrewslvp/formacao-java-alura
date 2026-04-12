@@ -8,7 +8,6 @@ import java.util.regex.Pattern;
 /**
  * Patrícia está desenvolvendo um sistema de análise de redes sociais e precisa extrair todas as hashtags de um texto.
  * Ela quer um programa que encontre todas as palavras que começam com "#".
- *
  * Crie um programa que receba um texto e exiba todas as hashtags encontradas.
  */
 
