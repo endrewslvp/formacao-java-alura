@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/nivel-1/05-encapsulamento/05-encapsulamento.iml" filepath="$PROJECT_DIR$/nivel-1/05-encapsulamento/05-encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel-1/06-heranca-polimorfismo-interfaces/06-heranca-polimorfismo-interfaces.iml" filepath="$PROJECT_DIR$/nivel-1/06-heranca-polimorfismo-interfaces/06-heranca-polimorfismo-interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/nivel-1/07-strings-e-regex/07-strings-e-regex.iml" filepath="$PROJECT_DIR$/nivel-1/07-strings-e-regex/07-strings-e-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nivel-1/08-colecoes-e-streams/08-colecoes-e-streams.iml" filepath="$PROJECT_DIR$/nivel-1/08-colecoes-e-streams/08-colecoes-e-streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/formacao-java-alura.iml" filepath="$PROJECT_DIR$/.idea/formacao-java-alura.iml" />
     </modules>
   </component>
